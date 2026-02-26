@@ -1,0 +1,5 @@
+{
+  "name": "Neon Sudoku",
+  "description": "A retro-themed neon Sudoku game with an AI-powered background generator.",
+  "requestFramePermissions": []
+}
